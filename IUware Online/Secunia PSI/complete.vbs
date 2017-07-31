@@ -1,0 +1,1 @@
+MsgBox "Secunia Personal Software Inspector installation completed.", 0, "IUware Online"
